@@ -1,0 +1,784 @@
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
+src/shortstop/training/negative_set.py
+src/shortstop/training/feature_extractor.py
+
+# === Python build artifacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === macOS + OS files ===
+.DS_Store
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+
+# === Logs and env ===
+*.log
+.env
+
+# === R artifacts ===
+.Rhistory
