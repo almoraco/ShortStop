@@ -181,7 +181,8 @@ ShortStop is in continuous development. For any questions or suggestions, contac
 ## Citation
 
 If you used ShortStop, please cite it in your manuscript:  
-*coming soon*
+
+Miller, B., de Souza, E.V., Pai, V.J. et al. ShortStop: a machine learning framework for microprotein discovery. BMC Methods 2, 16 (2025). https://doi.org/10.1186/s44330-025-00037-4
 
 ## License and Contributions
 
